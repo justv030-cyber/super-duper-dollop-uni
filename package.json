@@ -1,0 +1,26 @@
+{
+  "name": "super-duper-dollop-uni",
+  "version": "1.0.0",
+  "description": "ERC-20 governance token powering Ethereum's top decentralized exchange. It gives holders voting rights over protocol upgrades, public infrastructure changes, and fee structures.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justv030-cyber/super-duper-dollop-uni.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justv030-cyber/super-duper-dollop-uni/issues"
+  },
+  "homepage": "https://github.com/justv030-cyber/super-duper-dollop-uni#readme",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^22.20.1",
+    "hardhat": "^3.16.0",
+    "typescript": "~6.0.3"
+  }
+}
